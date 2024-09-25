@@ -1,2 +1,2 @@
 # StarEstate
-A website that presents realtime estate data, analyzes population trends, etc. to analyze current properties on the market ideal for high ROI investment opportunities.
+A website that presents real estate data, analyzes population and market trends, etc. to assess current properties on the market ideal for high ROI investment opportunities.
